@@ -54,10 +54,10 @@ export default function Index() {
             </li>
             <li>
               <Link
-                to="https://chat.deepseek.com"
+                to="https://lobe.aryuki.com"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
-                Or Deepseek
+                Lobe Chat
               </Link>
             </li>
             <li>
